@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mownica
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Fullstack Web Deveopment
+- 🌱 I’m certified Fullstack Web Developer
 - 💻 How to reach me mownicawebdev@gmail.com
 
 <!---
